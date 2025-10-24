@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é **Mateus Albano Santos**, sou desenvolvedor Fullstack e estudante na Universidade Regional de Blumenau (FURB).</p>
+<p align="left">Meu nome é <strong>Mateus Albano Santos</strong>, sou desenvolvedor Fullstack e estudante na Universidade Regional de Blumenau (FURB).</p>
 
 ###
 
@@ -48,7 +48,11 @@
 
 ###
 
-<p align="left">- Telefone: +55 (47) 99751-3444<br>- Gmail: albanomateus7@gmail.com<br>- Outlook: mateusalbano@furb.br</p>
+<ul align="left">
+  <li><strong>Telefone:</strong> +55 (47) 99751-3444</li>
+  <li><strong>Gmail:</strong> albanomateus7@gmail.com</li>
+  <li><strong>Outlook:</strong> mateusalbano@furb.br</li>
+</ul>
 
 ###
 
