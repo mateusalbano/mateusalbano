@@ -10,7 +10,7 @@
 
 ###
 
-[Link mateusalbano.github.io/curriculo] (https://mateusalbano.github.io/curriculo/)
+[mateusalbano.github.io/curriculo](https://mateusalbano.github.io/curriculo/)
 
 ###
 
