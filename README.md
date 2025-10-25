@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Nasci dia 11 de maio de 2004 em Curitiba, e hoje moro em Blumenau, SC. Sou um entusiasta de tecnologia e computação e  sempre estou em busca de novos aprendizados. Hoje estudo Ciências da Computação na Federação Universidade Regional de Blumenau (FURB) e pretendo me formar no final de 2026.</p>
+<p align="left">Nasci dia 11 de maio de 2004 em Curitiba, PR, e hoje moro em Blumenau, SC. Sou um entusiasta de tecnologia e computação e sempre estou em busca de novos aprendizados. Hoje estudo Ciências da Computação na Federação Universidade Regional de Blumenau (FURB) e pretendo me formar no final de 2026.</p>
 
 ###
 
