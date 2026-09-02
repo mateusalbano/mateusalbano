@@ -1,4 +1,4 @@
-<h1 align="left">Olá, bem vindo ao meu portifólio! 👋😁</h1>
+<h1 align="left">Olá, bem vindo ao meu portfólio! 👋😁</h1>
 
 ###
 
